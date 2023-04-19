@@ -1,4 +1,97 @@
-.carrosel {
-    width: 50%;
-    height:50vh ;
+
+@import url('https://fonts.googleapis.com/css2?family= família= Poppins:wght@100;200;300;400;500;600;700;800;900 & display=swap');
+
+#contender{
+    width: 100%;
+    height: 90vh;
+    
+   
 }
+#pacotiss{
+    display: flex;
+    justify-content: center;
+    height:20%;
+    width: 100%;
+   
+    align-items: center;
+}
+#vh{
+    width:98% ;
+    height:60vh ;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+   
+
+}
+    
+
+.carrosel {
+    width:98% ;
+    height:70vh;
+    border-radius: 11%;
+}
+
+#pacotes {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    
+}
+
+
+#oferta{
+    font-family: 'Poppins', sans-serif;
+  
+}
+
+#pagamento{
+    background-color: rgba(45, 144, 237, 0.130);
+    width:50% ;
+    height:70vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 11%;
+    padding-top: 2%;
+
+    
+}
+ 
+
+
+#imagens {
+    width:50%;
+    height: 20vh;
+    display: flex;
+    align-items: start;
+    justify-content: space-around;
+ }
+
+ .img{
+    width: 20%;
+    height: 10vh;
+ }
+
+#aa {
+    width: 50%;
+    height:20vh ;
+    display: flex;
+    align-items: center;
+    padding-top: 2% ;
+    
+   
+   flex-direction: column;
+
+    
+}
+
+
+ 
+
+
+
+    
+
+
+    
