@@ -111,7 +111,76 @@
   
 }
 
+#footer{
+    width: 100%;
+    height: 98vh;
+    display: flex;
+    justify-content: center;
+   
+    
+}
 
+#faleconosco {
+    width: 94%;
+    height: 98vh;
+    background-color: rgba(45, 144, 237, 0.130);
+    border-radius: 5%;
+   
+}
+
+#fale{
+    width:100% ;
+    height:15vh ;
+    
+    justify-content: center;
+    display: flex;
+    margin-top: 2%;
+}
+
+
+#dois {
+    width:30% ;
+    height:80vh ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+
+ #tres{ 
+    width:100% ;
+    height:70vh ;
+    
+    display: flex;
+    justify-content: center;
+  
+ }
+
+ .IMG {
+    width: 100%;
+    height: 25vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+
+ }
+ .IMAGENS {
+    width:20% ;
+    height:10vh ;
+    display: flex;
+    align-items: center;
+  
+ }
+
+ #avião {
+    width:40% ;
+    height:15vh ;
+    
+ }
+
+ 
  
 
 
