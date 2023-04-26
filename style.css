@@ -1,0 +1,101 @@
+*{
+        box-sizing: border-box;
+        padding: 0;
+        margin: 0;
+}
+
+#LOGO {
+        align-items: center;
+        display: flex;
+        justify-content: center;
+        padding: 40px;
+}
+
+#logo {
+        width: 200px;
+        height: 70px;
+
+
+}
+
+#Azul {
+
+        background-color: #2d90ed68;
+        width: 70%;
+        height: 50px;
+        display: flex;
+        border-radius: 20px;
+        justify-content: space-around;
+        align-items: center;
+        font-family :'Poppins', sans-serif ;
+     
+       
+        
+}
+
+#Home {
+
+        width: 100%;
+        height: 100%;
+}
+
+.ImagemFM {
+
+        width: 100%;
+        height: 70%;
+        float: left;
+        position: relative;
+        display: flex;
+        justify-content: center;
+        opacity: 0.6;
+        
+    
+
+}
+
+#Avião {
+
+        display: flex;
+        padding: 15px;
+
+}
+
+#Escrita {
+        width: 80%;
+        height: 15px;
+        font-family: 'Poppins', sans-serif;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+}
+
+#container {
+        width: 100%;
+        height: 30vh;
+        display: flex;
+}
+
+.text {
+        position: absolute;
+        padding: 20 20 0 0; 
+        
+        font-family: 'Poppins', sans-serif;
+}
+
+#links {
+        display: flex;
+        align-items: center;
+        justify-content:flex-end;
+
+        width: 70%;
+        height: 30vh;
+
+}
+
+.text2{
+        position: absolute;
+        padding: 20 20 0 0; 
+        font-family: 'Poppins', sans-serif;
+        justify-content: flex-end;
+}
