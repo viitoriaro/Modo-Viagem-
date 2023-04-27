@@ -41,7 +41,6 @@
 
 #pagamento{
     background-color: rgba(45, 144, 237, 0.130);
-    width:50% ;
     height:70vh;
     display: flex;
     flex-direction: column;
@@ -84,11 +83,13 @@
 }
  .texto {
     font-family: 'Poppins', sans-serif;
+    font-weight: 300;
     
  }
 
  .vezes{
     font-family: 'Poppins', sans-serif;
+    
     font-weight: 600;
  }
 
@@ -125,6 +126,7 @@
     height: 98vh;
     background-color: rgba(45, 144, 237, 0.130);
     border-radius: 5%;
+    
    
 }
 
@@ -135,16 +137,29 @@
     justify-content: center;
     display: flex;
     margin-top: 2%;
+    
 }
 
 
 #dois {
     width:30% ;
-    height:80vh ;
+    height:70vh ;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: space-evenly;
+    
+}
+
+#um {
+    width:30% ;
+    height:70vh ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    
+  
 }
 
 
@@ -154,6 +169,12 @@
     
     display: flex;
     justify-content: center;
+   justify-content: space-evenly
+    
+   
+    
+    background-color: blueviolet;
+    
   
  }
 
@@ -167,7 +188,7 @@
 
  }
  .IMAGENS {
-    width:20% ;
+    width:13% ;
     height:10vh ;
     display: flex;
     align-items: center;
@@ -175,12 +196,14 @@
  }
 
  #avião {
-    width:40% ;
+    width:50% ;
     height:15vh ;
     
  }
 
- 
+
+
+
  
 
 
