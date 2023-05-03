@@ -116,7 +116,11 @@
     font-weight: 700;
     font-size: 50px;
 }
-
+#contato {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 50px;
+}
 #bb{
     height: 100%;
     width: 70vh;
@@ -213,7 +217,7 @@
  }
 
  #aviao {
-    width:80% ;
+    width:90% ;
     height:13vh ;
 
  }
@@ -244,4 +248,61 @@ footer {
 
 .carousel-control-next {
     margin-right: 40px;
+}
+
+#formulario {
+   
+    width: 94%;
+    height: 110vh;
+    background-color:rgba(45, 144, 237, 0.317);
+    margin: auto;
+    border-radius: 5%;
+    margin-top: 2%;
+    display: flex;
+    flex-direction: column;
+    justify-content:center ;
+   
+    align-items: center;
+
+}
+
+form {
+    width: 50vw; 
+   
+}
+
+input{
+    width :100% ;
+    height: 6vh;
+    border-radius: 60px;
+    border: none;
+    padding: 8px 24px;
+   
+}
+
+label {
+    margin-top: 24px;
+}
+
+#w3review {
+    width:100% ;
+    height: 39vh;
+    border-radius: 20px;
+    border: none;
+    padding: 8px 24px;
+
+}
+
+div.btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button{
+    width:30% ;
+    height: 6vh;
+    border-radius: 80px;
+    border: none;
+    margin-top: 16px;
 }
